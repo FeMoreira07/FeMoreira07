@@ -1,11 +1,5 @@
 ### Hi Devs , I'm Felipe 👋
 
-Towards FullStack🚀🚀
-
-- 🔭 I’m working with : Front-End
-- 🌱 I’m currently learning React advanced skills
-- 📫 Contact  me : felipetorta@gmail.com
-
 
 <div align="center">
   <a href="https://github.com/FeMoreira07">
